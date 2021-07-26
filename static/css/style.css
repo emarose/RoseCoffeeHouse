@@ -32,7 +32,7 @@ html {
 }
 
 #parallax-image{
-    background-image: url(./static/images/bg1.jpg);
+    background-image: url(static/images/bg1.jpg);
     height: 100vh;
     width:100%;
     background-attachment: fixed;
@@ -156,7 +156,7 @@ html {
     background-color: rgba(255,255,255,0.2);
 }
 .box1{
-    background-image: url('./static/images/card1.jpg');
+    background-image: url('./images/card1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
