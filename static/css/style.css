@@ -156,7 +156,7 @@ html {
     background-color: rgba(255,255,255,0.2);
 }
 .box1{
-    background-image: url(./RoseCoffeeHouse/static/images/card1.jpg);
+    background-image: url(../images/card1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -280,6 +280,7 @@ html {
 
 #menu-row{
     margin-top: 150px;
+    height:100vh;
 }
 
 #menu-image{
