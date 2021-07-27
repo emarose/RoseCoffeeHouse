@@ -615,18 +615,18 @@ html {
   flex-direction: column;
   margin: 100px 50px;
   text-align: center;
-  width: 60ch;
-  height: 60ch;
+  width: 46ch;
+  max-height: fit-content;
 }
 .article p{
   max-width: 45ch;
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-family: var(--sub-font);
 }
 
 .article h1{
   max-width: 40ch;
-  font-size: 1.9em;
+  font-size: 1.7em;
 }
 
 .article button{
