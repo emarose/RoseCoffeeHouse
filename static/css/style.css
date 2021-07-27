@@ -283,7 +283,7 @@ html {
 
 #menu-image{
     background-image: url(../images/menu.jpg);
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -291,7 +291,7 @@ html {
 }
 
 #menu-offers{
-    height: 100vh;
+    height: 120vh;
     text-align: left;
     background-color: rgba(11,100,187,0.2);
 }
