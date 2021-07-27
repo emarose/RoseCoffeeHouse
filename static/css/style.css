@@ -24,7 +24,6 @@ li{
 body{
     font-size: 100%;
     font-family: var(--main-font);
-    width: 100%;
 }
 
 html {
@@ -280,7 +279,6 @@ html {
 
 #menu-row{
     margin-top: 150px;
-    height:100vh;
 }
 
 #menu-image{
